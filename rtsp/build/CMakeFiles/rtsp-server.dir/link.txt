@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/rtsp-server.dir/main.cpp.o CMakeFiles/rtsp-server.dir/RtspConnection.cpp.o CMakeFiles/rtsp-server.dir/RtspServer.cpp.o  -o rtsp-server -pthread 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zn/media-server/rtsp/build",
+  "command": "/usr/bin/g++-7   -I/home/zn/media-server/thirdparty/asio  -g   -o CMakeFiles/rtsp-server.dir/main.cpp.o -c /home/zn/media-server/rtsp/main.cpp",
+  "file": "/home/zn/media-server/rtsp/main.cpp"
+},
+{
+  "directory": "/home/zn/media-server/rtsp/build",
+  "command": "/usr/bin/g++-7   -I/home/zn/media-server/thirdparty/asio  -g   -o CMakeFiles/rtsp-server.dir/RtspConnection.cpp.o -c /home/zn/media-server/rtsp/RtspConnection.cpp",
+  "file": "/home/zn/media-server/rtsp/RtspConnection.cpp"
+},
+{
+  "directory": "/home/zn/media-server/rtsp/build",
+  "command": "/usr/bin/g++-7   -I/home/zn/media-server/thirdparty/asio  -g   -o CMakeFiles/rtsp-server.dir/RtspServer.cpp.o -c /home/zn/media-server/rtsp/RtspServer.cpp",
+  "file": "/home/zn/media-server/rtsp/RtspServer.cpp"
+}
+]

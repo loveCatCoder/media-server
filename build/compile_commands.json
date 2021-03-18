@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zn/media-server/build",
+  "command": "/usr/bin/g++-7   -I/home/zn/media-server/thirdparty/asio  -g   -o CMakeFiles/media-server.dir/main.cpp.o -c /home/zn/media-server/main.cpp",
+  "file": "/home/zn/media-server/main.cpp"
+}
+]
